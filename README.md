@@ -1,5 +1,3 @@
-![Sky-Fi Banner](banner.png)
-
 <h1 align="center">Sky-Fi</h1>
 <p align="center">
   <em>Wi-Fi Controlled FPV RC Plane — Fly from your browser</em>
